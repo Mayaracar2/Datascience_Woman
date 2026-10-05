@@ -4,7 +4,7 @@
 
 O dataset **Women’s Representation in Global STEM Education** apresenta a participação das mulheres na educação em Ciência, Tecnologia, Engenharia e Matemática (STEM), entre **2000 e 2023**.
 
-São **500 registros** de seis países: Estados Unidos, China, Índia, Alemanha, Canadá e Austrália. As áreas abordadas são Engenharia, Ciência da Computação, Matemática e Biologia.
+São **500 registros** de seis países: Estados Unidos, China, Índia, Alemanha, Canadá e Austrália. 
 
 ## Objetivo
 
