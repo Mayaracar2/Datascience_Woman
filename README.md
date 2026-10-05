@@ -1,4 +1,4 @@
-# Mulheres na educação STEM
+# Mulheres na educação STEM 🩷👩
 
 ## Sobre o dataset
 
