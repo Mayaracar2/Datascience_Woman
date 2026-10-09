@@ -1,4 +1,4 @@
-# Women’s Representation in Global STEM Education 🩷👩
+# Women’s Representation in Global STEM Education 👱‍♀️💗
 
 ## 🌸 Sobre o dataset
 
